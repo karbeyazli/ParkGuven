@@ -1,0 +1,28 @@
+# ParkGüven
+
+**ParkGüven**, şehir içi otopark problemlerine dijital çözüm sunan bir mobil uygulamadır. Kullanıcılar konum tabanlı boş park alanlarını görüntüleyebilir, park yeri rezerve edebilir ve mobil ödeme gerçekleştirebilir.
+
+## Özellikler
+
+- Konuma göre en yakın otoparkları gösterir  
+- Boş/dolu bilgisi sunar  
+- Uygulama içi reklam alanları  
+- Gelecekte yapay zeka ile dinamik yönlendirme
+
+## Geliştirme Araçları
+
+- **React Native** (mobil uygulama)
+- **Figma** (arayüz tasarımı)
+- **ChatGPT** (geliştirme asistanı)
+- **Notion** (proje yönetimi)
+- **GitHub** (versiyon kontrolü)
+
+## Proje Durumu
+
+- AAB dosyası hazırlık aşamasında  
+- Arayüz görselleri tamamlandı  
+- KOSGEB başvuru dosyası hazırlandı
+
+## Lisans
+
+Bu proje açık kaynaklı değildir. Tüm hakları saklıdır. (c) 2025 Karbeyaz GYO & Ali Ağca
